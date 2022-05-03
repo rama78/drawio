@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T21:57:42.876Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="iOGXSAKpBfR1IciV0OCP" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T12:27:49.910Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Qhf-YzS3v7fewS45m628" version="16.4.5" type="github">
   <diagram id="6zsNcTkabCAZfi7xyR_b" name="Page-1">
     <mxGraphModel dx="1409" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -201,6 +201,15 @@
         </mxCell>
         <mxCell id="In-XIOcq7ashCKyNTo-U-65" value="&lt;font color=&quot;#00cccc&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;6&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontColor=#67AB9F;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="759" y="490" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="In-XIOcq7ashCKyNTo-U-66" value="&lt;font color=&quot;#00cccc&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;8&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontColor=#67AB9F;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="177" y="463" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="In-XIOcq7ashCKyNTo-U-67" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/secure.svg;fontSize=13;fontColor=#00CCCC;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="753" y="191" width="16" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="In-XIOcq7ashCKyNTo-U-71" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/secure.svg;fontSize=13;fontColor=#00CCCC;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="574" y="75" width="16" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
